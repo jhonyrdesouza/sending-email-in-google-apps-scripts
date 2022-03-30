@@ -1,4 +1,10 @@
 # Recebendo e-mails utilizando o Google Apps Script.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/jhonyrdesouza/sending-email-in-google-apps-scripts?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/jhonyrdesouza/sending-email-in-google-apps-scripts?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/jhonyrdesouza/sending-email-in-google-apps-scripts?style=for-the-badge)
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+
 > Um exemplo passo a passo de como usar um formulário HTML para enviar uma mensagem do tipo "fale conosco" por e-mail sem um servidor de back-end utilizando o serviço do Google Apps Scripts. **[Veja um exemplo funcional aqui.](jhony.me/links)**
 
 ## Por quê?
@@ -170,10 +176,10 @@ function getFieldFromData(field, data) {
 
 
 
-### Observação:
+## Observação:
 Com a LGPD, recomendo pesquisar recomendações sobre privacidade do usuário; você pode ser responsabilizado pela guarda dos dados pessoais dos usuários e deve fornecer a eles uma maneira de entrar em contato com você. :)
 
-### Aviso:
+## Aviso:
 A API do Google tem limites de quantos e-mails pode enviar por dia. Isso pode variar na sua conta do Google, [veja os limites aqui.](https://developers.google.com/apps-script/guides/services/quotas) Recomendo implementar este tutorial até a Parte 3, pois os dados sempre serão adicionados à planilha primeiro e depois enviados por e-mail, se possível.
 
 ### Licença:
