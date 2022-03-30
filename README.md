@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/jhonyrdesouza/sending-email-in-google-apps-scripts?style=for-the-badge)
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 
-> Um exemplo passo a passo de como usar um formulário HTML para enviar uma mensagem do tipo "fale conosco" por e-mail sem um servidor de back-end utilizando o serviço do Google Apps Scripts. **[Veja um exemplo funcional aqui.](jhony.me/links)**
+> Um exemplo passo a passo de como usar um formulário HTML para enviar uma mensagem do tipo "fale conosco" por e-mail sem um servidor de back-end utilizando o serviço do Google Apps Scripts. **[Veja um exemplo funcional aqui.](https://jhony.me/links/)**
 
 ## Por quê?
 Precisava de uma maneira de receber os dados preenchidos de um formulário "Newsletters" em uma página HTML estática. Sem utilizar um servidor para realizar os envios de e-mails. Precisava dos dados para importar para a substack.com, ferramenta de boletim informativo por e-mail para pequenos escritores no qual faço envio dos meus conteúdos techs que escrevo.
