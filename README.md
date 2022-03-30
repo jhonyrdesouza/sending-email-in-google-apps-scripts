@@ -174,7 +174,7 @@ function getFieldFromData(field, data) {
 Com a LGPD, recomendo pesquisar recomendações sobre privacidade do usuário; você pode ser responsabilizado pela guarda dos dados pessoais dos usuários e deve fornecer a eles uma maneira de entrar em contato com você. :)
 
 ### Aviso:
-A API do Google tem limites de quantos e-mails pode enviar por dia. Isso pode variar na sua conta do Google, [veja os limites aqui.](https://developers.google.com/apps-script/guides/services/quotas). Recomendo implementar este tutorial até a Parte 3, pois os dados sempre serão adicionados à planilha primeiro e depois enviados por e-mail, se possível.
+A API do Google tem limites de quantos e-mails pode enviar por dia. Isso pode variar na sua conta do Google, [veja os limites aqui.](https://developers.google.com/apps-script/guides/services/quotas) Recomendo implementar este tutorial até a Parte 3, pois os dados sempre serão adicionados à planilha primeiro e depois enviados por e-mail, se possível.
 
 ### Licença:
 
