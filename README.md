@@ -6,7 +6,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 
 
-![cover](https://jhonyrdesouza.github.io/cover-post.png)
+![cover](https://jhonyrdesouza.github.io/cover.png)
 
 > Um exemplo passo a passo de como usar um formulário HTML para enviar uma mensagem do tipo "fale conosco" por e-mail sem um servidor de back-end utilizando o serviço do Google Apps Scripts. **[Veja um exemplo funcional aqui.](https://jhony.me/links/)**
 
